@@ -3,7 +3,6 @@
 
 1. **Clone the repo and install dependencies:**
 
-   bash
    git clone <repository-url>
    cd GoogleAuthExpress
    npm install
