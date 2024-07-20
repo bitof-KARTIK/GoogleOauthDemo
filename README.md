@@ -1,7 +1,7 @@
 
 ## Setup
 
-1. **Clone the repo and install dependencies:**
+1. **Clone the repo**
 
 
 2. **Create a `.env` file:**
