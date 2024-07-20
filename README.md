@@ -3,10 +3,6 @@
 
 1. **Clone the repo and install dependencies:**
 
-   git clone <repository-url>
-   cd GoogleAuthExpress
-   npm install
-   
 
 2. **Create a `.env` file:**
    
