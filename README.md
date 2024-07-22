@@ -13,7 +13,7 @@
 
 4. **Run The App**
 
-   npm i nodemon -g
+   npm i nodemon -g <br/>
    npx nodemon app.js
    
    
